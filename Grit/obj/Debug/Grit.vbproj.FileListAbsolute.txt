@@ -1,0 +1,49 @@
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\bin\Debug\Grit.exe.config
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\bin\Debug\Grit.exe
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\bin\Debug\Grit.pdb
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\bin\Debug\Grit.xml
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\obj\Debug\Grit.vbprojResolveAssemblyReference.cache
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\obj\Debug\Grit.MainMenu.resources
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\obj\Debug\Grit.Resources.resources
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\obj\Debug\Grit.vbproj.GenerateResource.Cache
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\obj\Debug\Grit.exe
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\obj\Debug\Grit.xml
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\obj\Debug\Grit.pdb
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\obj\Debug\Grit.MenuHowToPlay.resources
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\obj\Debug\Grit.GameLevel1.resources
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\obj\Debug\Grit.GameLevelShop.resources
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\obj\Debug\Grit.MenuShop.resources
+\\internal.hereford.ac.uk\student\2015 enrolment\jjm51285\My Documents\Computer Science\Grit\Grit\Grit\obj\Debug\Grit.inventory.resources
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\bin\Debug\Grit.exe.config
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\obj\Debug\Grit.exe
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\obj\Debug\Grit.xml
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\obj\Debug\Grit.pdb
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\bin\Debug\Grit.exe
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\bin\Debug\Grit.pdb
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\bin\Debug\Grit.xml
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\obj\Debug\Grit.vbprojResolveAssemblyReference.cache
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\obj\Debug\Grit.GameLevel1.resources
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\obj\Debug\Grit.GameLevelShop.resources
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\obj\Debug\Grit.inventory.resources
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\obj\Debug\Grit.MenuHowToPlay.resources
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\obj\Debug\Grit.MainMenu.resources
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\obj\Debug\Grit.MenuShop.resources
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\obj\Debug\Grit.Resources.resources
+D:\-COLLEGE-\Computer Science\Grit\Grit\Grit\Grit\obj\Debug\Grit.vbproj.GenerateResource.Cache
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\bin\Debug\Grit.exe.config
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\obj\Debug\Grit.exe
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\obj\Debug\Grit.xml
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\obj\Debug\Grit.pdb
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\obj\Debug\Grit.vbprojResolveAssemblyReference.cache
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\obj\Debug\Grit.GameLevel1.resources
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\obj\Debug\Grit.GameLevelShop.resources
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\obj\Debug\Grit.inventory.resources
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\obj\Debug\Grit.MenuHowToPlay.resources
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\obj\Debug\Grit.MainMenu.resources
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\obj\Debug\Grit.MenuShop.resources
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\obj\Debug\Grit.Resources.resources
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\obj\Debug\Grit.vbproj.GenerateResource.Cache
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\bin\Debug\Grit.exe
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\bin\Debug\Grit.pdb
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\bin\Debug\Grit.xml
+D:\-COLLEGE-\Computer Science\Gritsafe\Grit\Grit\Grit\Grit\obj\Debug\Grit.GameLevel2.resources
