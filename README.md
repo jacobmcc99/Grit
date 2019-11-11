@@ -17,3 +17,5 @@ ESC - Menu
 Have fun!
 
 This game requires Microsoft Visual Studio to run.
+
+Gameplay videos can be found here: https://drive.google.com/open?id=0B1pekmn9An7gX3N2Wk92SG93TWM
